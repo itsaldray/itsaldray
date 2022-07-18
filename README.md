@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsaldray
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- Research and Development Engineer at TSMC (N2 IC device Technology)
+- Self-trained in Python
 - 📫 How to reach me rsetiawa@ualberta.ca
 
 <!---
